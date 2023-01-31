@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jovany Vergar, Developer Software 👾
+<h1 align="center">Hi, I'm Jovany Vergara, Developer Software 👾
 
 <img alt="" src="assets/code.gif"> </img></h1>
 
