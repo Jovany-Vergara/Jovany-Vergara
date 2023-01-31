@@ -32,7 +32,7 @@ Most important of all, never stop learning new technology or something that will
 <h2>My Post 💻</h2>
 
 <a href="https://jovany-vergara.github.io/">
-  <img src="assets/yo.jpeg" alt="spring" width="200" height="200" style="max-width: 100%;">
+  <img src="assets/yop.jpeg" alt="spring" width="200" height="200" style="max-width: 100%;">
 </a>
 
 <h2>Contact Us</h2>
