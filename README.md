@@ -28,18 +28,22 @@ Most important of all, never stop learning new technology or something that will
 </p>
 
 <h2>FrameWorks</h2>
-<img src="assets/image_frameWorks/vue.svg" width="30" height="30" style="max-width: 100%;">
-<img src="assets/image_frameWorks/angular.png" width="30" height="30" style="max-width: 100%;">
-<img src="assets/image_frameWorks/spring.svg" width="30" height="30" style="max-width: 100%;">
+<p>
+  <img src="assets/image_frameWorks/vue.svg" width="30" height="30" style="max-width: 100%;">
+  <img src="assets/image_frameWorks/angular.png" width="30" height="30" style="max-width: 100%;">
+  <img src="assets/image_frameWorks/spring.svg" width="30" height="30" style="max-width: 100%;">
+</p>
 
 <h2>Tools</h2>
-<img src="assets/image_tools/Git.png" width="30" height="30" style="max-width: 100%;">
-<img src="assets/image_frameWorks/html.svg" width="30" height="30" style="max-width: 100%;">
-<img src="assets/image_tools/css.svg" width="30" height="30" style="max-width: 100%;">
-<img src="assets/image_tools/vsCode.svg" width="30" height="30" style="max-width: 100%;">
-<img src="assets/image_tools/Bootstrap.png" width="35" height="30" style="max-width: 100%;">
-<img src="assets/image_tools/DBeaver.png" width="30" height="30" style="max-width: 100%;">
-<img src="assets/image_tools/taiwin.png" width="30" height="30" style="max-width: 100%;">
+<p>
+  <img src="assets/image_tools/Git.png" width="30" height="30" style="max-width: 100%;">
+  <img src="assets/image_frameWorks/html.svg" width="30" height="30" style="max-width: 100%;">
+  <img src="assets/image_tools/css.svg" width="30" height="30" style="max-width: 100%;">
+  <img src="assets/image_tools/vsCode.svg" width="30" height="30" style="max-width: 100%;">
+  <img src="assets/image_tools/Bootstrap.png" width="35" height="30" style="max-width: 100%;">
+  <img src="assets/image_tools/DBeaver.png" width="30" height="30" style="max-width: 100%;">
+  <img src="assets/image_tools/taiwin.png" width="30" height="30" style="max-width: 100%;">
+</p>
 
 <h2>Where did you currently work</h2>
 
