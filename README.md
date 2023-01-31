@@ -5,7 +5,7 @@
 <h2>Something about me 🐉</h2>
 
 I am a software developer, I have learned too many things like:
-- New programming languages
+- New Programming Languages
 - New FrameWorks etc...
 
 I managed to meet spectacular people, who today have taught me a lot of things,
