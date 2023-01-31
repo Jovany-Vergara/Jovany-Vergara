@@ -18,11 +18,11 @@ Most important of all, never stop learning new technology or something that will
 - I love learning something new 💫
 - I have intermediate English 📝
 - I like to design ☕
+- I have been developing software for 1 year 🖥️
 
 <h2>Where did you currently work</h2>
 
 - I work at Making Devs, as a software developer
-- I have been developing software for 1 year
 
 <a href="https://www.makingdevs.com/">
   <img src="assets/logoMD.png" alt="spring" width="70" height="70" style="max-width: 100%;">
