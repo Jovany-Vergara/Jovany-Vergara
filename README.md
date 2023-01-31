@@ -40,8 +40,7 @@ Most important of all, never stop learning new technology or something that will
   <img src="assets/linkin.svg" width="40" height="40"
   style="max-width: 100%;">
 </a>
-<a href="https://camo.githubusercontent.com/1ecefd7615ee8f56d889b13a5b7212fa093191441269cf4f2db485b1f80ea256/68747470733a2f2f7777772e766563746f
-726c6f676f2e7a6f6e652f6c6f676f732f66616365626f6f6b2f66616365626f6f6b2d69636f6e2e737667">
+<a href="https://www.facebook.com/diegojovany.vergara">
   <img src="assets/facebook.svg" alt="spring" width="40" height="40" 
   style="max-width: 100%;">
 </a>
