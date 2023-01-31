@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jovany Vergara, Developer Software 👾
 
-<img alt="" src="assets/compu.gif"> </img></h1>
+<img alt="" src="assets/comput.gif"> </img></h1>
 
 <h2>Something about me 🐉</h2>
 
