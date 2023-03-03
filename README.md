@@ -25,6 +25,7 @@ Most important of all, never stop learning new technology or something that will
   <img src="assets/image_languages/ruby.svg" width="30" height="30" style="max-width: 100%;">
   <img src="assets/image_languages/groovy.svg" width="30" height="30" style="max-width: 100%;">
   <img src="assets/image_languages/javaScript.png" width="30" height="30" style="max-width: 100%;">
+  <img src="assets/image_languages/Python.webp" width="30" height="30" style="max-width: 100%;">
 </p>
 
 <h2>FrameWorks</h2>
@@ -43,6 +44,7 @@ Most important of all, never stop learning new technology or something that will
   <img src="assets/image_tools/Bootstrap.png" width="35" height="30" style="max-width: 100%;">
   <img src="assets/image_tools/DBeaver.png" width="30" height="30" style="max-width: 100%;">
   <img src="assets/image_tools/taiwin.png" width="30" height="30" style="max-width: 100%;">
+  <img src="assets/image_tools/Postgres.png" width="30" height="30" style="max-width: 100%;">
 </p>
 
 <h2>Where did you currently work</h2>
