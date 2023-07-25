@@ -4,21 +4,15 @@
 
 <h2>Something about me 🐉</h2>
 
-I am a software developer, I have learned too many things like:
-- New Programming Languages
-- New FrameWorks etc...
+I am a software developer
 
-I managed to meet spectacular people, who today have taught me a lot of things,
-I have instructed throughout my performance as a software developer.
-I am willing to learn something new, I will always be willing to learn new technologies, 
-more than help me with my performance.
-Most important of all, never stop learning new technology or something that will help you in your performance.
+I managed to meet spectacular people, who today have taught me many things, have instructed me throughout my work as a software developer. I am willing to learn something new, I will always be willing to learn new technologies that help me with my performance. Most important of all: Never stop learning new technologies or something that helps you in your performance.
 
 - I love what I do 🚀
 - I love learning something new 💫
 - I have intermediate English 📝
 - I like to design ☕
-- I have been developing software for 1 year 🖥️
+- I have been developing software for 2 year 🖥️
 
 <h2>Languages I've used</h2>
 <p>
@@ -26,6 +20,7 @@ Most important of all, never stop learning new technology or something that will
   <img src="assets/image_languages/groovy.svg" width="30" height="30" style="max-width: 100%;">
   <img src="assets/image_languages/javaScript.png" width="30" height="30" style="max-width: 100%;">
   <img src="assets/image_languages/Python.webp" width="30" height="30" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" width="30" height="30" style="max-width: 100%;">
 </p>
 
 <h2>FrameWorks</h2>
@@ -33,6 +28,14 @@ Most important of all, never stop learning new technology or something that will
   <img src="assets/image_frameWorks/vue.svg" width="30" height="30" style="max-width: 100%;">
   <img src="assets/image_frameWorks/angular.png" width="30" height="30" style="max-width: 100%;">
   <img src="assets/image_frameWorks/spring.svg" width="30" height="30" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="30" style="max-width: 100%;">
+</p>
+
+<h2>Databases</h2>
+<p>
+  <img src="assets/image-dataBase/fireBase.png" width="30" height="30" style="max-width: 100%;">
+  <img src="assets/image_tools/Postgres.png" width="30" height="30" style="max-width: 100%;">
+  <img src="assets/image-dataBase/mysql2.png" width="30" height="30" style="max-width: 100%;">
 </p>
 
 <h2>Tools</h2>
@@ -44,7 +47,15 @@ Most important of all, never stop learning new technology or something that will
   <img src="assets/image_tools/Bootstrap.png" width="35" height="30" style="max-width: 100%;">
   <img src="assets/image_tools/DBeaver.png" width="30" height="30" style="max-width: 100%;">
   <img src="assets/image_tools/taiwin.png" width="30" height="30" style="max-width: 100%;">
-  <img src="assets/image_tools/Postgres.png" width="30" height="30" style="max-width: 100%;">
+</p>
+
+<h2>Additional features</h2>
+<p>
+  <img src="assets/image_tools/jira.png" width="60" height="30" style="max-width: 100%;">
+  <img src="assets/image_tools/clickUp.webp" width="30" height="30" style="max-width: 100%;">
+  <img src="assets/image_tools/docker.webp" width="30" height="30" style="max-width: 100%;">
+  <img src="assets/image_tools/gcloud.png" width="30" height="30" style="max-width: 100%;">
+  <img src="assets/image_tools/sql.png" width="60" height="30" style="max-width: 100%;">
 </p>
 
 <h2>Where did you currently work</h2>
